@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lambda_expressions_C__Bridgelabz
+namespace Lambda_expressions_C__Bridgelabz.Lambda
 {
     internal class Strong_password
     {

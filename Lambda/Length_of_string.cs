@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lambda_expressions_C__Bridgelabz
+namespace Lambda_expressions_C__Bridgelabz.Lambda
 {
     internal class Length_of_string
     {
