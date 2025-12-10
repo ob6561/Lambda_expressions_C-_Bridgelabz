@@ -6,6 +6,7 @@
     <RootNamespace>Lambda_expressions_C__Bridgelabz</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Lambda_expressions_C__Bridgelabz.leap_or_not</StartupObject>
   </PropertyGroup>
 
 </Project>
